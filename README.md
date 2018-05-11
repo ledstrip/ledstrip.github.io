@@ -1,2 +1,5 @@
 # ledstrip.github.io
-Ledstrip website
+
+Welcome to the ledstrip project website.
+
+Please take a look at our repositories [here](https://github.com/ledstrip)
